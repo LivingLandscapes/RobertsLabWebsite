@@ -1,0 +1,11 @@
+"Model","(Intercept)","SpCov"
+"lek presence ~ SpCov 182.25 ha + (1|Year)",-1.17,4.91
+"lek presence ~ SpCov 292.41 ha + (1|Year)",-1.11,4.53
+"lek presence ~ SpCov 620.01 ha + (1|Year)",-0.98,4.1
+"lek presence ~ SpCov 98.01 ha + (1|Year)",-1.33,4.53
+"lek presence ~ SpCov 1030.41 ha + (1|Year)",-0.94,3.53
+"lek presence ~ SpCov 1274.49 ha + (1|Year)",-0.96,3.18
+"lek presence ~ SpCov 1592.01 ha + (1|Year)",-0.95,2.99
+"lek presence ~ SpCov 15.21 ha + (1|Year)",-1.7,3.54
+"lek presence ~ SpCov 0.81 ha + (1|Year)",-2.06,1.72
+"lek presence ~ (1|Year)",-2.31,NA
